@@ -12,10 +12,11 @@ A simple **Connect 4 game** built with **Python** and **Pygame**, where you can 
 
 ## How to Play
 
-1. Run the game
-2. Choose the AI difficulty by clicking a button (depth 1-6).
-3. The player uses the mouse to select the column to drop a disc.
-4. The first player to align 4 discs horizontally, vertically, or diagonally wins!
+1. Run the game :
+   You can download the Windows executable from the [latest release](https://github.com/MaximeClere/Connect-4/releases/latest)
+3. Choose the AI difficulty by clicking a button (depth 1-6).
+4. The player uses the mouse to select the column to drop a disc.
+5. The first player to align 4 discs horizontally, vertically, or diagonally wins!
 
 ## AI Logic
 - The AI uses the Minimax algorithm to anticipate moves.
